@@ -1,2 +1,2 @@
 # project
-first_projact
+first_project
